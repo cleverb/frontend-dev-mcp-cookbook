@@ -1,0 +1,25 @@
+=======
+Xenova/distilbart-cnn-12-6
+
+Querying: "Who is einstein?"
+
+Top 3 most similar documents:
+
+File: general_relativity.txt (Distance: 1.0806487798690796)
+Summary: " Einstein’s theory of general relativity redefined our understanding of gravity. Instead of viewing gravity as a force acting at a distance, it interprets it as the curvature of spacetime around massive objects. This groundbreaking theory led to predictions like gravitational lensing and black holes."
+Content: Einstein’s theory of general relativity redefined our understanding of gravity. Instead of viewing gravity as a force acting at a distance, it interpr...
+
+File: newton.txt (Distance: 1.2225341796875)
+Summary: " In classical mechanics, Newton’s laws of motion form the foundation of how we understand the movement of objects. Over time, applying Newton‘s laws has enabled engineers and scientists to design safer vehicles, more efficient machines, and even guide spacecraft through intricate gravitational fields."
+Content: In classical mechanics, Newton’s laws of motion form the foundation of how we understand the movement of objects. Newton’s first law, often called the...
+
+File: thermodynamics.txt (Distance: 1.289401650428772)
+Summary: " In the study of thermodynamics, the second law states that the entropy of an isolated system never decreases over time. This has profound implications for energy conversion and efficiency: no engine can convert heat into work without losing some energy as waste heat. Understanding this has shaped the design of more efficient machines."
+Content: In the study of thermodynamics, the second law states that the entropy of an isolated system never decreases over time. Essentially, entropy is a meas...
+Received MCP request: { jsonrpc: '2.0', method: 'notifications/initialized' }
+
+=======
+
+
+
+=======
